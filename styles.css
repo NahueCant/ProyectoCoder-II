@@ -1,0 +1,26 @@
+html {
+    height: 100vh;
+    background-image:linear-gradient(rgb(75, 75, 75),#333);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body {
+    text-align: center;
+}
+p {
+    margin: 0%;
+    font-weight: bold;
+}
+input {
+    background-image: radial-gradient(rgb(75, 75, 75),#333);
+}
+.bor_rad {
+    border-radius: 7px;
+}
+.pad {
+    padding: 3px;
+    padding-left: 4px;
+    text-align: center;
+}
+th, td {
+    border-radius: 7px;
+}
